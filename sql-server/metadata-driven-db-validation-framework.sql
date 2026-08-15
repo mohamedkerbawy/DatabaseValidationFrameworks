@@ -1,6 +1,7 @@
 /*
 ===============================================================================
-                    Database Validation Framework
+            Metadata-driven Database Validation Framework
+                      Author: Mohamed Kerbawy
 
 A reusable, metadata-driven **database validation framework** for validating
 data migrations by automatically reconciling legacy/source data with target
